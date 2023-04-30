@@ -1,0 +1,14 @@
+[package]
+name = "open-home-ambient"
+version = "0.0.0"
+edition = "2021"
+
+authors = ["Kylian Lichtensteiger <f5cbd9e6@srylax.dev>"]
+license = "AGPL-3.0-or-later"
+keywords = ["open-home-ambient","open-home"]
+homepage = "https://github.com/open-home-dev/open-home-ambient"
+repository = "https://github.com/open-home-dev/open-home-ambient"
+description = "Placeholder for the Open-Home Ambient - currently in Development"
+readme = "README.md"
+
+[dependencies]
